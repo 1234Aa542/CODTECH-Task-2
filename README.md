@@ -33,6 +33,11 @@ Iterating over a collection of student records using vector and performing opera
 
 
 
+![Screenshot 2024-12-11 134857](https://github.com/user-attachments/assets/cdbebdc4-7e34-4100-9ba4-72d94f392310)
+
+
+
+
 
 
 
